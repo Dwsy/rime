@@ -1,0 +1,8 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	2
+#@/user_id	59ea4f9f-a96e-4312-a182-97f9f0abbd26
+shu ru fa 	輸入法	c=1 d=1 t=2
+si ye cao 	四葉草	c=1 d=0.995012 t=2

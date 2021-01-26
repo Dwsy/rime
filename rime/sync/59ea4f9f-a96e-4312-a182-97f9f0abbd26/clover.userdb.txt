@@ -1,0 +1,79 @@
+# Rime user dictionary
+#@/db_name	clover.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	96
+#@/user_id	59ea4f9f-a96e-4312-a182-97f9f0abbd26
+a 	啊	c=1 d=1 t=95
+ba 	吧	c=0 d=0.1 t=61
+ba fu 	巴佛	c=0 d=0.1 t=95
+bi 	比	c=1 d=1 t=75
+bi sai 	比赛	c=1 d=1 t=60
+bie 	别	c=1 d=1 t=37
+chu 	出	c=3 d=2.66641 t=79
+ci 	词	c=1 d=0.985112 t=96
+ci ku 	词库	c=1 d=0.932394 t=96
+da da suo duan 	大大缩短	c=0 d=0.1 t=17
+de 	的	c=1 d=1 t=19
+de jiu 	得救	c=0 d=0.1 t=19
+de jiu zi dao 	得救自导	c=1 d=1 t=20
+deng 	等	c=2 d=1.8781 t=59
+dian hu 	电弧	c=1 d=1 t=65
+dou 	都	c=1 d=1 t=89
+fa 	发	c=1 d=1 t=82
+fu he guan 	复合管	c=3 d=2.97032 t=86
+gao san 	高三	c=1 d=1 t=64
+gei 	给	c=3 d=2.9361 t=56
+gua fu 	寡妇	c=1 d=1 t=61
+guo 	过	c=1 d=1 t=43
+ha 	哈	c=2 d=1.96079 t=58
+ha ha 	哈哈	c=1 d=0.927743 t=96
+hai 	还	c=1 d=1 t=39
+hai xing 	还行	c=1 d=1.07091 t=96
+han guo 	韩国	c=2 d=1.9802 t=84
+hong 	红	c=0 d=0.1 t=95
+hong ba fu 	红巴佛	c=1 d=1 t=96
+hua guo feng 	华国锋	c=1 d=1 t=83
+hui lai 	回来	c=2 d=1.98511 t=90
+jiu 	就	c=5 d=3.65544 t=96
+jiu hai xing 	就还行	c=1 d=0.960789 t=96
+jiu hen 	就很	c=2 d=1.9605 t=96
+jiu shi 	就是	c=1 d=1 t=55
+jiu zhe 	就这	c=0 d=0.1 t=61
+jiu zhe ba 	就这吧	c=1 d=1 t=62
+le 	了	c=5 d=4.30642 t=91
+lian xiang 	联想	c=1 d=1 t=73
+luo li 	萝莉	c=2 d=1.99005 t=70
+ming 	明	c=1 d=1 t=96
+na 	那	c=3 d=2.85294 t=53
+neng 	能	c=1 d=1 t=23
+ni 	你	c=1 d=0.874345 t=96
+ni men 	你们	c=1 d=1 t=21
+nian 	年	c=4 d=3.94556 t=71
+niu 	牛	c=1 d=0.995012 t=96
+qu nian 	去年	c=1 d=1 t=52
+sa 	撒	c=1 d=1 t=27
+shi 	是	c=0 d=0.1 t=17
+shi da da suo duan 	是大大缩短	c=1 d=1 t=18
+shu ru fa 	输入法	c=2 d=1.52137 t=96
+si da shi dai 	四达时代	c=2 d=1.32095 t=96
+song 	送	c=1 d=1 t=24
+wan 	玩	c=3 d=2.81721 t=57
+wang dao 	王道	c=2 d=1.99501 t=93
+wei 	为	c=1 d=1 t=25
+wo 	我	c=1 d=0.941765 t=96
+wo de 	我的	c=0 d=0.0951229 t=96
+wo de ni 	我的你	c=1 d=0.955997 t=96
+xia 	下	c=1 d=1 t=77
+xia zai 	下载	c=1 d=0.937067 t=96
+xian 	线	c=1 d=1 t=42
+xiang 	香	c=1 d=1 t=78
+xing 	行	c=1 d=1 t=35
+xiu 	秀	c=1 d=1 t=94
+yi nian 	一年	c=2 d=1.99005 t=76
+yue yue 	悦悦	c=1 d=1 t=63
+yun 	云	c=1 d=0.951229 t=96
+zen me ban 	怎么办	c=1 d=1 t=46
+zeng 	增	c=1 d=1 t=29
+zhen 	真	c=2 d=1.956 t=31
+zi dao 	自导	c=0 d=0.1 t=19
