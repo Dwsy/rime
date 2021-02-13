@@ -1,5 +1,7 @@
 var:
-  last_build_time: 1610620578
+  last_build_time: 1613015930
   previously_selected_schema: clover
   schema_access_time:
-    clover: 1610559489
+    bopomofo_express: 1610691200
+    clover: 1610691449
+    terra_pinyin: 1610691259
